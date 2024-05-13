@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    font-family: 'San Francisco', sans-serif;
+}
+
+img{
+    height: 500px;
+}
+
+.container{
+    display: flex;
+}
+
+.temperatureContainer, .humidityContainer{
+    flex: 1;
+}
